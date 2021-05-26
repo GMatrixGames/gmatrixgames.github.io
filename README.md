@@ -42,4 +42,7 @@ My name is Garrett or GMatrixGames and I'm a C#/Java developer that has previous
     <a href="http://discord.gg/KbGH43p">
         <img src="https://discordapp.com/api/guilds/708370560501153913/widget.png?style=banner4" width="250px;" alt="Fortnite Central Discord"/>
     </a><br/>
+    <a href="http://discord.gg/QEUdhdK">
+        <img src="https://discordapp.com/api/guilds/520034763919327247/widget.png?style=banner4" width="250px;" alt="The Matrix Nation Discord"/>
+    </a><br/>
 </p>
