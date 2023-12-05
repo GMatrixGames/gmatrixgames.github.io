@@ -3,9 +3,7 @@
 My name is Garrett or GMatrixGames. I develop things for games I enjoy.
 Currently working on a Bachelors Degree in Game Development!
 
-I have worked in C#/C++/Java quite extensively throughout elementary/middle/high school.
-
-Creating things
+I have worked in C#/C++/Java quite extensively throughout elementary/middle/high school. I love making things that help or are used by others so making games or game-related things is my happy place.
 
 ## Personal Projects
 * **[Fortnite Central](http://discord.gg/ETePR8VgQf):** Developed and run by me
