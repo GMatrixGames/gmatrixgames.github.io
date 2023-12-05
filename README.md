@@ -33,12 +33,8 @@ Creating things
 
 ## My social links
 <p align="center">
-    <a href="https://twitter.com/GMatrixGames">
-        <img src="https://i.imgur.com/MtCU3IB.png" width="350px;" alt="Twitter"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCOT7ZUDNs45nf9LJZOicxwA">
-        <img src="https://i.imgur.com/VqblSQt.png" width="300px;" alt="Youtube"/>
-    </a>
+    <a href="https://twitter.com/thegarrettk"><img src="https://img.shields.io/badge/@thegarrettk-gray?style=flat&logo=x&link=https://twitter.com/thegarrettk" alt="@thegarrettk" /></a>
+    <a href="https://twitter.com/gmatrixgames"><img src="https://img.shields.io/badge/@GMatrixGames-blue?style=flat&logo=twitter&link=https://twitter.com/gmatrixgames" alt="@GMatrixGames" /></a>
 </p>
 
 <p align="center">
