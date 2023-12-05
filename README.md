@@ -1,15 +1,26 @@
 # Welcome!
 
-My name is Garrett or GMatrixGames and I'm a C#/Java developer that has previously worked on Minecraft plugins and mods, now I work on Fortnite related projects. All within .NET/C# and Java
+My name is Garrett or GMatrixGames. I develop things for games I enjoy.
+Currently working on a Bachelors Degree in Game Development!
+
+I have worked in C#/C++/Java quite extensively throughout elementary/middle/high school.
+
+Creating things
+
+## Personal Projects
+* **[Fortnite Central](http://discord.gg/ETePR8VgQf):** Developed and run by me
+  * **Description »** Fortnite Central is your one stop discord for all things Fortnite related! Fully custom bot developed by me that you can also invite to your own server!
+* **[PokéStop](http://discord.gg/FxmMSdNqDb):** Developed and run by me
+  * **Description »** PokéStop is your one stop for all Pokémon related product updates from reputable shops.
+* **[Pinnacle](https://pinnacle.genxgames.gg):** Developed by me
+  * **Description »** A game that's been taking way too long, but I have great ideas to implement to finish it one day.  
 
 ## Projects I've contributed to
 
-* **[FModel](https://github.com/iAmAsval/FModel):** Created by [Asval](https://github.com/iAmAsval)
+* **[FModel](https://github.com/4sval/FModel):** Created by [Asval](https://github.com/4sval)
   * **Description »** Software for exploring UE4-5 games' files
 * **[CUE4Parse](https://github.com/FabianFG/CUE4Parse):** Created by [Fabian](https://github.com/FabianFG)
   * **Description »** A C# Parser for Unreal Engine 4-5 packages & assets
-* **[Fortnite Central](http://discord.gg/KbGH43p):** Developed and run by me
-  * **Description »** Fortnite Central is your one stop discord for all things Fortnite related! Fully custom bot developed by me that you can also invite to your own server!
 * **[FortniteAPI.io](https://fortniteapi.io):** Run by [Quentin](https://github.com/QuentinBellus)
   * **Description »** FortniteAPI.io is one of the leading Fortnite-based APIs
 * **More soon!**
@@ -18,13 +29,7 @@ My name is Garrett or GMatrixGames and I'm a C#/Java developer that has previous
    <img src="https://github-readme-stats.vercel.app/api?username=GMatrixGames&count_private=true&show_icons=true&theme=dark" alt="Github Stats"/>
 </p>
 
-### If you like any of my projects and would like to support me, click the image below!
-
-<p align="center">
-    <a href="https://www.paypal.me/gmatrix" target="_blank">
-        <img src="https://i.ibb.co/56Z2bW1/matrix-donate.png" height="100">
-    </a>
-</p>
+[![An image of @gmatrixgames's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gmatrixgames)](https://holopin.io/@gmatrixgames)
 
 ## My social links
 <p align="center">
@@ -37,10 +42,7 @@ My name is Garrett or GMatrixGames and I'm a C#/Java developer that has previous
 </p>
 
 <p align="center">
-    <a href="http://discord.gg/KbGH43p">
+    <a href="http://discord.gg/ETePR8VgQf">
         <img src="https://discordapp.com/api/guilds/708370560501153913/widget.png?style=banner4" width="250px;" alt="Fortnite Central Discord"/>
-    </a>
-    <a href="http://discord.gg/QEUdhdK">
-        <img src="https://discordapp.com/api/guilds/520034763919327247/widget.png?style=banner4" width="250px;" alt="The Matrix Nation Discord"/>
     </a>
 </p>
