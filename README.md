@@ -1,17 +1,17 @@
 # Welcome!
 
-My name is Garrett or GMatrixGames. I develop things for games I enjoy.
-Currently working on a Bachelors Degree in Game Development!
+My name is Garrett, aka GMatrixGames. I develop programs and utilities for games I enjoy. I am also a college student working on a 
+Bachelor's Degree in Game Development!
 
-I have worked in C#/C++/Java quite extensively throughout elementary/middle/high school. I love making things that help or are used by others so making games or game-related things is my happy place.
+I have worked extensively in C#/C++/Java. I make things that help and are used by others. Making games or game-related things is my happy place.
 
 ## Personal Projects
-* **[Fortnite Central](http://discord.gg/ETePR8VgQf):** Developed and run by me
-  * **Description »** Fortnite Central is your one stop discord for all things Fortnite related! Fully custom bot developed by me that you can also invite to your own server!
-* **[PokéStop](http://discord.gg/FxmMSdNqDb):** Developed and run by me
+* **[Fortnite Central](http://discord.gg/ETePR8VgQf):** Developer and Administrator
+  * **Description »** Fortnite Central is your one-stop discord for all things Fortnite related! It is a fully custom bot that I developed that you can invite to your server!
+* **[PokéStop](http://discord.gg/FxmMSdNqDb):** Developer and Administrator
   * **Description »** PokéStop is your one stop for all Pokémon related product updates from reputable shops.
-* **[Pinnacle](https://pinnacle.genxgames.gg):** Developed by me
-  * **Description »** A game that's been taking way too long, but I have great ideas to implement to finish it one day.  
+* **[Pinnacle](https://pinnacle.genxgames.gg):** Creator
+  * **Description »** A game I have great ideas for but is taking too long to complete.
 
 ## Projects I've contributed to
 
@@ -19,7 +19,7 @@ I have worked in C#/C++/Java quite extensively throughout elementary/middle/high
   * **Description »** Software for exploring UE4-5 games' files
 * **[CUE4Parse](https://github.com/FabianFG/CUE4Parse):** Created by [Fabian](https://github.com/FabianFG)
   * **Description »** A C# Parser for Unreal Engine 4-5 packages & assets
-* **[FortniteAPI.io](https://fortniteapi.io):** Run by [Quentin](https://github.com/QuentinBellus)
+* **[FortniteAPI.io](https://fortniteapi.io):** Administered by [Quentin](https://github.com/QuentinBellus)
   * **Description »** FortniteAPI.io is one of the leading Fortnite-based APIs
 * **More soon!**
 
@@ -33,6 +33,7 @@ I have worked in C#/C++/Java quite extensively throughout elementary/middle/high
 <p align="center">
     <a href="https://twitter.com/thegarrettk"><img src="https://img.shields.io/badge/@thegarrettk-gray?style=flat&logo=x&link=https://twitter.com/thegarrettk" alt="@thegarrettk" /></a>
     <a href="https://twitter.com/gmatrixgames"><img src="https://img.shields.io/badge/@GMatrixGames-blue?style=flat&logo=twitter&link=https://twitter.com/gmatrixgames" alt="@GMatrixGames" /></a>
+    <a href="https://www.linkedin.com/in/garrett-koleda"><img src="https://img.shields.io/badge/Garrett%20Koleda-blue?style=flat&logo=linkedin" alt="Garrett Koleda" /></a>
 </p>
 
 <p align="center">
