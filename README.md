@@ -7,9 +7,9 @@ I have worked extensively in C#/C++/Java. I make things that help and are used b
 
 ## Personal Projects
 * **[Fortnite Central](http://discord.gg/ETePR8VgQf):** Developer and Administrator
-  * **Description »** Fortnite Central is your one-stop discord for all things Fortnite related! It is a fully custom bot that I developed that you can invite to your server!
+  * **Description »** Fortnite Central is your one-stop discord for all things Fortnite related! It is a fully custom bot that I developed, that you can invite to your own server!
 * **[PokéStop](http://discord.gg/FxmMSdNqDb):** Developer and Administrator
-  * **Description »** PokéStop is your one stop for all Pokémon related product updates from reputable shops.
+  * **Description »** PokéStop is your one place for all Pokémon related product updates from reputable shops.
 * **[Pinnacle](https://pinnacle.genxgames.gg):** Creator
   * **Description »** A game I have great ideas for but is taking too long to complete.
 
