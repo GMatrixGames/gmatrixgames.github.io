@@ -11,6 +11,28 @@ I make things that help and are used by others. Making games or game-related thi
     <a href="https://www.linkedin.com/in/garrett-koleda"><img src="https://img.shields.io/badge/Garrett%20Koleda-blue?style=flat&logo=linkedin" alt="Garrett Koleda" /></a>
 </p>
 
+## GenX Software
+
+I am the founder of **GenX Software**, a small independent software company created to house my professional projects and tools.  
+GenX Software is where I centralize my work on development utilities, game-related tools, and other software projects.  
+Through GenX, my goal is to turn personal passion projects into polished tools and systems that help others in the gaming and development community.
+
+### Projects under GenX Software
+
+* **[Droppable](https://droppable.dev):** Creator
+  * **Description »** Droppable helps you manage exclusive product drops with custom pricing, access control, and queueing. Protect against bots and control access with a variety of conditions, integrations, and built-in verification, like Discord roles, join dates, and Shopify tags. Schedule drops, track activity, and customize the queue to fit your brand. Seamless platform integrations make it easy to control who can access each drop, ensuring a fair and flexible experience.
+      - Control traffic and sell products fairly during high-demand drops.  
+      - Customize pricing and product limits for each drop.  
+      - Launch product drops at specific times with set conditions.  
+      - Prevent unauthorized checkouts with Cart Validation.  
+      - Mix and match platform integrations in a single drop.
+
+## Educational Projects
+* **[Quantum Raiders](https://github.com/GMatrixGames/QuantumRaiders):** Lead Developer and Project Manager
+  * **Description »** "Quantum Raiders" is a single-player sci-fi shooter set on a space station. Players battle waves of alien enemies, aiming to destroy their spawners with an arsenal of powerful weapons. Survival hinges on skill and strategy as they take down each invader.
+* **[Wave 81](https://wave81.genxsoftware.net):** Lead Developer and Project Manager
+  * **Description »** "Wave 81" is a fast-paced, retro-inspired arcade space shooter drawing direct influence from Galaga and other golden-age classics. It delivers pure pick-up-and-play adrenaline, designed for players seeking tight controls, escalating challenge, and high-score competition. The gameplay emphasizes quick reflexes, pattern recognition, and mastery through repetition.
+
 ## Personal Projects
 * **[Fortnite Central](http://discord.gg/ETePR8VgQf):** Developer and Administrator
   * **Description »** Fortnite Central is your one-stop discord for all things Fortnite related! It is a fully custom bot that I developed, that you can invite to your own server!
@@ -27,12 +49,3 @@ I make things that help and are used by others. Making games or game-related thi
   * **Description »** A C# Parser for Unreal Engine 4-5 packages & assets
 * **[FortniteAPI.io](https://fortniteapi.io):** Administered by [Quentin](https://github.com/QuentinBellus)
   * **Description »** FortniteAPI.io is one of the leading Fortnite-based APIs
-* **More soon!**
-
-# Cool stats!
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=GMatrixGames&count_private=true&show_icons=true&theme=dark" alt="Github Stats"/>
-</p>
-
-[![An image of @gmatrixgames's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gmatrixgames)](https://holopin.io/@gmatrixgames)
