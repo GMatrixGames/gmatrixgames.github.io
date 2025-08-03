@@ -19,7 +19,7 @@ Through GenX, my goal is to turn personal passion projects into polished tools a
 
 ### Projects under GenX Software
 
-* **[Droppable](https://droppable.dev):** Creator
+* **[Droppable](https://droppable.dev):**
   * **Description »** Droppable helps you manage exclusive product drops with custom pricing, access control, and queueing. Protect against bots and control access with a variety of conditions, integrations, and built-in verification, like Discord roles, join dates, and Shopify tags. Schedule drops, track activity, and customize the queue to fit your brand. Seamless platform integrations make it easy to control who can access each drop, ensuring a fair and flexible experience.
       - Control traffic and sell products fairly during high-demand drops.  
       - Customize pricing and product limits for each drop.  
