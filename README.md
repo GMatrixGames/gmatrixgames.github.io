@@ -26,24 +26,32 @@ Through GenX, my goal is to turn personal passion projects into polished tools a
       - Launch product drops at specific times with set conditions.  
       - Prevent unauthorized checkouts with Cart Validation.  
       - Mix and match platform integrations in a single drop.
+  * **Skills & Technologies Utilized »** TypeScript, Shopify GraphQL, Discord REST API, Remix, React Router v7
 
 ## Educational Projects
 * **[Quantum Raiders](https://github.com/GMatrixGames/QuantumRaiders):** Lead Developer and Project Manager
-  * **Description »** "Quantum Raiders" is a single-player sci-fi shooter set on a space station. Players battle waves of alien enemies, aiming to destroy their spawners with an arsenal of powerful weapons. Survival hinges on skill and strategy as they take down each invader.
+  * **Description »** "Quantum Raiders" is a single-player sci-fi shooter set on a space station. Players battle waves of alien enemies, aiming to destroy their spawners with an arsenal of powerful weapons. Survival hinges on skill and strategy as they take down each invader
+  * **Skills & Technologies Utilized »** Project Management, Unity, C#, WebGL
 * **[Wave 81](https://wave81.genxsoftware.net):** Lead Developer and Project Manager
   * **Description »** "Wave 81" is a fast-paced, retro-inspired arcade space shooter drawing direct influence from Galaga and other golden-age classics. It delivers pure pick-up-and-play adrenaline, designed for players seeking tight controls, escalating challenge, and high-score competition. The gameplay emphasizes quick reflexes, pattern recognition, and mastery through repetition.
+  * **Skills & Technologies Utilized »** Vulkan API / Gateware, ImGui, C++, Project Management, Teamwork
 
 ## Personal Projects
 * **[Fortnite Central](http://discord.gg/ETePR8VgQf):** Developer and Administrator
   * **Description »** Fortnite Central is your one-stop discord for all things Fortnite related! It is a fully custom bot that I developed, that you can invite to your own server!
+  * **Skills & Technologies Utilized »** ASP.NET Core, Cloudflare, TypeScript, C#, Web Services, Project Scaling, MongoDB
 * **[PokéStop](http://discord.gg/FxmMSdNqDb):** Developer and Administrator
   * **Description »** PokéStop is your one stop for all Pokémon related product updates from reputable shops.
+  * **Skills & Technologies Utilized »** TypeScript, Discord Websockets, Shopify Webhooks 
 
 ## Projects I've contributed to
 
 * **[FModel](https://github.com/4sval/FModel):** Created by [Asval](https://github.com/4sval)
   * **Description »** Software for exploring UE4-5 games' files
+  * **Skills & Technologies Utilized »** C#, Git, .NET Core
 * **[CUE4Parse](https://github.com/FabianFG/CUE4Parse):** Created by [Fabian](https://github.com/FabianFG)
   * **Description »** A C# Parser for Unreal Engine 4-5 packages & assets
+  * **Skills & Technologies Utilized »** C#, Git, .NET Core, Unreal Engine, Reverse Engineering
 * **[FortniteAPI.io](https://fortniteapi.io):** Administered by [Quentin](https://github.com/QuentinBellus)
   * **Description »** FortniteAPI.io is one of the leading Fortnite-based APIs
+  * **Skills & Technologies Utilized »** C#, Git, .NET Core, TypeScript, MariaDB/MySQL
